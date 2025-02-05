@@ -1,4 +1,4 @@
-kedro¶
+kedro
 
 Description
 
