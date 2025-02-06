@@ -1,6 +1,6 @@
 Kedro
 
-Description
+<b> Description </b>
 
 Kedro is a framework that makes it easy to build robust and scalable data pipelines by providing uniform project templates, data abstraction, configuration and pipeline assembly.
 
