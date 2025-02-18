@@ -53,11 +53,12 @@ Check the status
 
 Run node 2 : preprocess_shuttles_node and status check
 
+![CA221E40-0760-41EC-9D44-7BBB1BEEE564](https://github.com/user-attachments/assets/95663a5b-4072-43aa-a145-9fc0c86149d1)
 
 
 Visualize the pipeline 
 Here the third dataset named as Review is included so that master data can be prepared.
-![CA221E40-0760-41EC-9D44-7BBB1BEEE564](https://github.com/user-attachments/assets/636accf9-835f-4566-93aa-898596950fcd)
+![CD32A685-7E85-4DD0-98BF-565BE9975882](https://github.com/user-attachments/assets/9e93e0f6-ceba-4049-b3e1-36b4ce96c111)
 
 
 Pipeline will look something like this 
