@@ -49,10 +49,10 @@ Run node 1 : preprocess_companies_node
 
 
 Check the status 
-Open Screenshot 2024-11-11 at 4.07.00 PM-20241111-103705.png
+![8D7EDF36-A4D7-4FC4-A34B-28A06B42DF70](https://github.com/user-attachments/assets/85892a48-91ae-4d38-94be-b8a3becfdb73)
 
 Run node 2 : preprocess_shuttles_node and status check
-![8D7EDF36-A4D7-4FC4-A34B-28A06B42DF70](https://github.com/user-attachments/assets/85892a48-91ae-4d38-94be-b8a3becfdb73)
+
 
 
 Visualize the pipeline 
