@@ -1,7 +1,7 @@
 # Kedro
 
 
-<b> Introduction </b>
+## Introduction 
 Kedro is an open-source Python framework for creating reproducible, maintainable, and modular data science code.
 Developed by QuantumBlack, a McKinsey company, Kedro aims to standardize the process of building data pipelines.
 
