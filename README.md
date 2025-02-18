@@ -5,17 +5,18 @@
 Kedro is an open-source Python framework for creating reproducible, maintainable, and modular data science code.
 Developed by QuantumBlack, a McKinsey company, Kedro aims to standardize the process of building data pipelines.
 
-# Features
-Pipeline Management: Organize your data engineering code into pipelines, each consisting of nodes that perform specific tasks.
-Data Catalog: A YAML-based configuration file that specifies how and where datasets are stored, making it easy to manage data inputs and outputs.
-Modular Pipelines: Support for creating reusable and shareable pipeline components.
-Experiment Tracking: Integration with Kedro-Viz for visualizing and tracking experiments.
-# Project Structure 
+## Features
+1. Pipeline Management: Organize your data engineering code into pipelines, each consisting of nodes that perform specific tasks.
+2. Data Catalog: A YAML-based configuration file that specifies how and where datasets are stored, making it easy to manage data inputs and outputs.
+3. Modular Pipelines: Support for creating reusable and shareable pipeline components.
+4. Experiment Tracking: Integration with Kedro-Viz for visualizing and tracking experiments.
+## Project Structure 
  
-Open Screenshot 2024-11-11 at 5.39.38 PM-20241111-120943.png
+![EE7D92F1-0A79-40A9-A403-48FC03A52D11_4_5005_c](https://github.com/user-attachments/assets/9b7e1652-babf-4de8-8fd7-5a8208e3d773)
+
 
  
-# Use Case 1 : Dataset registration
+## Use Case 1 : Dataset registration
 The following information about a dataset must be registered before Kedro can load it:
 File location (path)
 Parameters for the given dataset
@@ -24,7 +25,7 @@ Versioning
 Install Kedro (v 0.19.0)
 Open Screenshot 2024-11-11 at 3.59.43 PM-20241111-102948.png
 
-# Requirements 
+## Requirements 
  
 Open Screenshot 2024-11-11 at 4.01.25 PM-20241111-103130.png
 
